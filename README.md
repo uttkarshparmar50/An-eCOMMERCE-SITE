@@ -1,4 +1,4 @@
-# LIFESTORE-eCOMMERCE-SITE
+# An eCOMMERCE-SITE
 An eCommerce website is an online store where you can buy or sell products online. An eCommerce offers a professional online store builder that helps you launch your eCommerce business quickly and successfully.
 # Description-
 This is the solution to the e-commerce website 
